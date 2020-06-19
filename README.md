@@ -1,5 +1,4 @@
-# grid_cell_analysis
-Code for grid cell analysis.
+# Code for grid cell analysis
 
 For replicating specific figures from the paper, please see scripts in OverallAnalysis. Details on which scripts is needed for which figure are in: Gerlei_et_at_2020_where_to_find_data_and_code.xlsx
 
