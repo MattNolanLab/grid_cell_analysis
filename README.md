@@ -10,3 +10,6 @@ There is a script with some examples of using functions in PostSorting to make p
 
 
 Please don't hesitate to email or submit an issue if there's a problem.
+
+
+![grid_cells](https://user-images.githubusercontent.com/16649631/85288620-ef83c480-b48d-11ea-9904-d9dacfb3c110.jpg)
