@@ -2,7 +2,7 @@
 
 For replicating specific figures from the paper, please see scripts in OverallAnalysis. Details on which script is needed for which figure are in: Gerlei_et_at_2020_where_to_find_data_and_code.xlsx
 
-The grid cell data is available from: https://datashare.is.ed.ac.uk/
+The grid cell data is available from: https://datashare.is.ed.ac.uk/handle/10283/3674
 
 -------------------------------------------------------------------------------------------------------------------------
 
