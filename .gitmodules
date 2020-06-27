@@ -1,0 +1,3 @@
+[submodule "SimulationComparisons/grid_cell_models/pastoll/model"]
+	path = SimulationComparisons/grid_cell_models/pastoll/model
+	url = git@github.com:ModelDBRepository/150031.git
